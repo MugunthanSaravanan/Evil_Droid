@@ -31,7 +31,7 @@
          git clone https://github.com/MugunthanSaravanan/Evil_Droid
 
     2? - Set script execution permission
-         cd Evil_Droid
+         cd Evil_Droid-main
          chmod +x evil_droid
 
     3?- Run Evil-Droid Framework :
